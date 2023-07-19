@@ -1,0 +1,39 @@
+html {
+    background-color: black;
+}
+body {
+    height: 150vh;
+}
+
+.top {
+    background-color: black;
+    height: 50vh;
+    color: white;
+}
+
+.middle {
+    height: 100vh;
+}
+
+.bottom {
+    background-color: bisque;
+    height: 50vh;
+}
+
+.image_top {
+    width: 33%;
+    height: 100%;
+    background-image: url(190208-delish-ramen-horizontal-093-1550096715.jpg);
+}
+
+.text_top {
+    width: 66%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle_group {
+    width: 40%;
+}
