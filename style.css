@@ -1,0 +1,74 @@
+html {
+    background-color: #161614;
+    font-family: monospace;
+}
+body {
+    height: 150vh;
+}
+
+h2 {
+    color: white;
+    margin-left: 15vh;
+}
+
+.list-group-mine {
+    background-color: #ffa745;
+  }
+
+.top {
+    background-color: black;
+    height: 50vh;
+    color: white;
+}
+
+.middle {
+    height: 50vh;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom {
+    background-color: black;
+    height: 50vh;
+    color: white;
+}
+
+.image_top {
+    width: 33%;
+    height: 100%;
+    background-image: url(190208-delish-ramen-horizontal-093-1550096715.jpg);
+    border-radius: 5%;
+}
+
+.image_top_loc {
+    width: 33%;
+    height: 100%;
+    background-image: url(japanramen1.jpg);
+    border-radius: 5%;
+}
+
+.image_bottom_loc {
+    width: 33%;
+    height: 100%;
+    background-image: url(ce4e7712-f14c-4c75-8539-32b2ced52b51.png);
+    border-radius: 5%;
+}
+
+.text_top {
+    width: 66%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.middle_group {
+    width: 60%;
+}
+.middle_list {
+    width: 100%;
+    font-size: x-large;
+}
