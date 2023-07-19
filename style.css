@@ -1,24 +1,24 @@
-nav {
-    background-color: red;
-    height: 5vh;
-    font-size: 2rem;
-}
-
 body {
     background-color: rgb(255, 0, 0);
 }
 
 main {
     background-color: blue;
-    height: 100vh;
+    height: 90vh;
+}
+
+.box {
+    height: 40vh;
 }
 
 #top-left {
     background-color: green;
+    margin-top: 3vh;
 }
 
 #top-right {
     background-color: azure;
+    margin-top: 3vh;
 }
 
 #bottom-left {
@@ -27,4 +27,10 @@ main {
 
 #bottom-right {
     background-color: darkorchid;
+}
+
+footer {
+    background-color: red;
+    height: 5vh;
+    font-size: 2.2rem;
 }
